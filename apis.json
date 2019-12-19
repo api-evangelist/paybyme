@@ -1,0 +1,53 @@
+{
+    "name": "PaybyMe",
+    "description": "Payment Services in METNA (Turkey, Middle East, North Affrica) and CIS (Commonwealth of Independent States) regions.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1353-paybyme.jpg",
+    "tags": [
+        "digital goods",
+        "financial services",
+        "has api",
+        "have api",
+        "no api definition",
+        "payments",
+        "photos"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/paybyme\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "PaybyMe",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1353-paybyme.jpg",
+            "humanURL": "http:\/\/www.payby.me",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/paybyme-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.payby.me"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/paybyme"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.payby.me\/developers\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/paybyme"
+        }
+    ]
+}
